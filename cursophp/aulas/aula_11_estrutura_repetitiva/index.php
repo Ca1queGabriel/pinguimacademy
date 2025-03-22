@@ -16,6 +16,9 @@
         <li>
             <a href = "while.php">While</a>
         </li>
+        <li>
+            <a href = "dowhile.php">DoWhile</a>
+        </li>
     </ul>
 </body>
 </html>
