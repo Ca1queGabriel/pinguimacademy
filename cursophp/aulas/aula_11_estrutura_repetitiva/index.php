@@ -10,6 +10,12 @@
         <li>
             <a href = "for.php">For</a>
         </li>
+        <li>
+            <a href = "foreach.php">ForEach</a>
+        </li>
+        <li>
+            <a href = "while.php">While</a>
+        </li>
     </ul>
 </body>
 </html>
