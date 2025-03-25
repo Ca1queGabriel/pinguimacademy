@@ -11,6 +11,7 @@
             <li><a href=/exemplo-basico.php>Exemplo básico</a></li>
             <li><a href=/funcao-tipada.php>Funções Tipadas</a></li>
             <li><a href=/funcao-referencia.php>Parâmetros por Referência</a></li>
+            <li><a href=/escopo-variaveis.php>Escopo de variáveis</a></li>
         </ul>
 </body>
 </html>
